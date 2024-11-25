@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1f3cf777.chunk.css",
-    "main.js": "/static/js/main.9c41cc76.chunk.js",
-    "main.js.map": "/static/js/main.9c41cc76.chunk.js.map",
+    "main.js": "/static/js/main.c4e93da2.chunk.js",
+    "main.js.map": "/static/js/main.c4e93da2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7f986675.js",
     "runtime-main.js.map": "/static/js/runtime-main.7f986675.js.map",
     "static/css/2.81933317.chunk.css": "/static/css/2.81933317.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.81933317.chunk.css.map": "/static/css/2.81933317.chunk.css.map",
     "static/css/main.1f3cf777.chunk.css.map": "/static/css/main.1f3cf777.chunk.css.map",
     "static/js/2.fe77ce3b.chunk.js.LICENSE.txt": "/static/js/2.fe77ce3b.chunk.js.LICENSE.txt",
-    "static/media/Resume_Lucas_Li.e2a5f911.pdf": "/static/media/Resume_Lucas_Li.e2a5f911.pdf",
+    "static/media/Resume_Lucas_Li.bb980a38.pdf": "/static/media/Resume_Lucas_Li.bb980a38.pdf",
     "static/media/lucas.2745d300.jpg": "/static/media/lucas.2745d300.jpg"
   },
   "entrypoints": [
@@ -20,6 +20,6 @@
     "static/css/2.81933317.chunk.css",
     "static/js/2.fe77ce3b.chunk.js",
     "static/css/main.1f3cf777.chunk.css",
-    "static/js/main.9c41cc76.chunk.js"
+    "static/js/main.c4e93da2.chunk.js"
   ]
 }
